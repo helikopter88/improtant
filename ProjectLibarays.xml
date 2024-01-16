@@ -1,0 +1,35 @@
+<!DOCTYPE ProjectLibrary>
+<ProjectLibrary version="1.0">
+    <Medias>
+        <Media>
+            <Type>1</Type>
+            <Name>VE Project 1</Name>
+            <Path>C:/Users/User/Desktop/tomy/00/VE Project 1.wfp</Path>
+            <Thumbnail></Thumbnail>
+            <CreateTime>1689977563</CreateTime>
+            <ModifyTime>1689977563</ModifyTime>
+            <Duration>763</Duration>
+            <Slug></Slug>
+        </Media>
+        <Media>
+            <Type>1</Type>
+            <Name>VE Project 1</Name>
+            <Path>C:/Users/User/Documents/Wondershare/Wondershare Filmora/Backup/VE Project 1.wfp</Path>
+            <Thumbnail></Thumbnail>
+            <CreateTime>1691637622</CreateTime>
+            <ModifyTime>1691637622</ModifyTime>
+            <Duration>665</Duration>
+            <Slug></Slug>
+        </Media>
+        <Media>
+            <Type>1</Type>
+            <Name>tugas</Name>
+            <Path>C:/Users/User/Documents/Wondershare/Wondershare Filmora/Backup/tugas.wfp</Path>
+            <Thumbnail></Thumbnail>
+            <CreateTime>1698261850</CreateTime>
+            <ModifyTime>1699333212</ModifyTime>
+            <Duration>806</Duration>
+            <Slug></Slug>
+        </Media>
+    </Medias>
+</ProjectLibrary>
